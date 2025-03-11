@@ -1,11 +1,11 @@
 # QR-MENU
 
+-  In this project; By examining the general structure of the QR menus used in various businesses, I would develop a QR menu in a style that restaurants or cafes can use.
+
+# Preview
 
 ![](https://github.com/silan4/qr-menu/blob/main/qrmenu.gif)
 
-# QR-MENU 
-
-- - In this project; By examining the general structure of the QR menus used in various businesses, I would develop a QR menu in a style that restaurants or cafes can use.
 
 # Features of the Project :
 
@@ -16,11 +16,14 @@
 - -  You can click on the buttons with all, breakfast, lunch and drinks options and choose according to your wishes and make it easier to choose food and beverages with the relevant options.
 - - You can click on the food and drink you intend to buy in the qr-menu where it uses a dynamic paging structure and take a closer look. After reviewing, you can click on the homepage icon and return to the homepage.
 
-# TECHNOLOGIES USED
+# Technologıes Used
 
 - - HTML
 - - CSS
 - - JAVASCRİPT
+
+# Libraries Used
+    
 - - BOOSTRAP
 - - FONTAWSOME
 
